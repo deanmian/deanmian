@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Dan 👋
 
-<!--
-**deanmian/deanmian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a computer Engineering student focused on cybersecurity and digital forensics.
 
-Here are some ideas to get you started:
+## Interests:
+- DFIR (Digital Forensics & Incident Response)
+- Memory forensics
+- Linux systems
+- Security analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently working on:
+- Memory forensics projects
+- Security labs and hands-on practice
+- Strengthening my cybersecurity fundamentals
+
+## How to reach me:
+
+<a href="https://www.linkedin.com/in/daniel-demian-navarro/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+---
+
+⚠️ Most of my work here is for educational and research purposes.
