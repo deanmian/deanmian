@@ -13,6 +13,11 @@ I am a computer Engineering student focused on cybersecurity and digital forensi
 - Security labs and hands-on practice
 - Strengthening my cybersecurity fundamentals
 
+## Featured Proyect
+- Memory Forensics Analysis – Malware Incident Investigation
+
+<a href="https://github.com/deanmian/memory-forensics-analysis"><img src="https://img.shields.io/badge/github-repo-blue?logo=github" /></a>
+
 ## How to reach me:
 
 <a href="https://www.linkedin.com/in/daniel-demian-navarro/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
